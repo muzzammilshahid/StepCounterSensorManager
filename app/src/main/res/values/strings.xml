@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">StepCounterSensorManager</string>
+    <string name="reset">Reset</string>
+    <string name="sensor_not_present">Counter Sensor not present</string>
+</resources>
